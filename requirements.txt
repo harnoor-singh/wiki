@@ -1,0 +1,2 @@
+markdown2==2.3.9
+Django==3.0.7
